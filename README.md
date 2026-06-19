@@ -50,13 +50,14 @@ Through this project I gained practical experience with:
 * Automation workflows
 * External service integration
 
-## 🎯 Future Improvements
+## Future Improvements
 
-* Additional trading indicators (RSI, MACD)
-* Risk management strategies
-* Trade history dashboard
-* Performance analytics
-* Web-based monitoring interface
+- RSI indicator integration
+- MACD strategy implementation
+- Stop-loss and take-profit mechanisms
+- Trading performance dashboard
+- Web-based monitoring interface
+- Multiple cryptocurrency support
 
 ## 👨‍💻 Author
 
